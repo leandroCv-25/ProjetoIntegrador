@@ -13,5 +13,7 @@ http://www.lac.usp.br/pendulo.html
 
 https://www.youtube.com/watch?v=E84x9rKRSSo&feature=youtu.be
 
+https://ctms.engin.umich.edu/CTMS/index.php?example=InvertedPendulum&section=SystemModeling
+
                                                               Referências
 OGATA, Katsuhiko. Engenharia de controle moderno. 5. ed. São Paulo: Pearson Education do Brasil, 2010. x, 809 p. ISBN 9788576058106.
