@@ -1,4 +1,4 @@
-# Projeto de Plataforma didática para simulação de controle de Sistemas 
+# Plataforma de simulação e ensino em controle
 
                                                            Visão Geral
 
