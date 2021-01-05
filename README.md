@@ -1,4 +1,4 @@
-# Plataforma de simulação e ensino em controle
+# Plataforma de Simulação e Ensino em Controle
 
                                                            Visão Geral
 
