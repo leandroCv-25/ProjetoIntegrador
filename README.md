@@ -53,7 +53,7 @@ Disponível em: <http://www.telebrasil.org.br/component/docman/doc_download/1569
 <<<<<<< HEAD
 																Cronograma
 
-![plot](./imagens/Cronograma.png)
+![alt text](./imagens/Cronograma.png)
 
 1. Realizar revisão bibliográfica;
 2. Identificar requisitos;
