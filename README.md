@@ -33,6 +33,24 @@ FILHO, M. F.Internet das coisas : livro digital. Palhoça: UnisulVirtual, 2016. 
 
 IEEE Standard for an Architectural Framework for the Internet of Things (IoT).IEEEStd 2413-2019, p. 1–269, March 2020. 
 
+MESSNER, B. et al.Introduction: PID Controller Design. 2019. 
+Disponível em:
+<https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=ControlPID>. 
+Acesso em: 13 de jan. de 2020.  
+
+OGATA, K.Engenharia de Controle Moderno. 5. ed. São Paulo: Pearson Educationdo Brasil, 2010. 809 p.  
+
+SERENI, B.Static Output Feedback Control for LPV and Uncertain LTISystems. Dissertação (Mestrado) — UNESP, Ilha Solteira, 2019.  
+
+SILVA, E. D.A Importância das atividades Experimentais na Educação.Dissertação (Mestrado) — AVM Faculdade Integrada, Rio de Janeiro, 2017.  
+
+SILVA, M. D. Estação iot para monitoramento da temperatura e umidade do interior deveículos. 04 2018. 
+
+SOUZA, W. et al. Robust switched control design for nonlinear systems using fuzzymodels.Mathematical Problems in Engineering, v. 2014, n. 1, p. 1–11, 2014.
+
+TELECO.Relatório do Projeto IoT Brasil. 2016. 
+Disponível em: <http://www.telebrasil.org.br/component/docman/doc_download/1569-apresentacao-do-projeto-lot-brasil?Itemid=>. Acesso em: 21 de jan. de2020.  Citado na página 24.
+<<<<<<< HEAD
 																Cronograma
 
 ![plot](./imagens/Cronograma.png)
@@ -50,3 +68,7 @@ IEEE Standard for an Architectural Framework for the Internet of Things (IoT).IE
 11. Desenvolvimento do aplicativo web;
 12. Teste com aplicativo web;
 13. Ensaios e Testes com a planta.
+=======
+
+
+>>>>>>> b77ed5fa7bca5b473003fe559911db49c06bb17f
