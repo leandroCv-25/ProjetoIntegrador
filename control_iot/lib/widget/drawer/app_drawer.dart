@@ -37,7 +37,7 @@ class AppDrawer extends StatelessWidget {
                         left: 40,
                         child: CircleAvatar(
                           radius: 80,
-                          backgroundImage: AssetImage("assets/images/logo.png"),
+                          //backgroundImage: AssetImage("assets/images/logo.png"),
                           backgroundColor: Colors.transparent,
                         ),
                       ),
@@ -47,20 +47,12 @@ class AppDrawer extends StatelessWidget {
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: <Widget>[
-                            if (_auth.isLoggedIn)
-                              Text(
-                                "Bem-vindo,\n${_auth.user!.name}",
-                                textAlign: TextAlign.start,
-                                style: Theme.of(context).textTheme.bodyText1,
-                                overflow: TextOverflow.fade,
-                              )
-                            else
-                              Text(
-                                "Bem-vindo",
-                                textAlign: TextAlign.start,
-                                style: Theme.of(context).textTheme.bodyText1,
-                                overflow: TextOverflow.fade,
-                              ),
+                            Text(
+                              "Bem-vindo",
+                              textAlign: TextAlign.start,
+                              style: Theme.of(context).textTheme.bodyText1,
+                              overflow: TextOverflow.fade,
+                            ),
                           ],
                         ),
                       ),
@@ -79,8 +71,8 @@ class AppDrawer extends StatelessWidget {
                 ),
                 if (_auth.isLoggedIn)
                   DrawTile(
-                    image: "assets/images/logo.png",
-                    text: "Estufas",
+                    iconData: Icons.construction,
+                    text: "Aparelhos",
                     function: () {
                       Provider.of<NavigationProvider>(context, listen: false)
                           .setPage(1);
@@ -101,8 +93,8 @@ class AppDrawer extends StatelessWidget {
                     order: null,
                   ),
                 DrawTile(
-                  iconData: Icons.shopping_basket,
-                  text: "Produtos",
+                  iconData: Icons.book,
+                  text: "Teorias",
                   function: () {
                     Provider.of<NavigationProvider>(context, listen: false)
                         .setPage(2);

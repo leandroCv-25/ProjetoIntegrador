@@ -58,8 +58,8 @@ class _TopBarContentsState extends State<TopBarContents> {
                         children: [
                           CircleAvatar(
                             radius: 15,
-                            backgroundImage:
-                                const AssetImage("assets/images/logo.png"),
+                            // backgroundImage:
+                            //     const AssetImage("assets/images/logo.png"),
                             backgroundColor: Colors.transparent,
                             child: Container(),
                           ),
@@ -113,7 +113,7 @@ class _TopBarContentsState extends State<TopBarContents> {
                           mainAxisSize: MainAxisSize.min,
                           children: [
                             Text(
-                              'Estufas',
+                              'Aparelhos',
                               style: Theme.of(context)
                                   .textTheme
                                   .bodyText1!
@@ -155,7 +155,7 @@ class _TopBarContentsState extends State<TopBarContents> {
                         mainAxisSize: MainAxisSize.min,
                         children: [
                           Text(
-                            'Produtos',
+                            'Teorias',
                             style:
                                 Theme.of(context).textTheme.bodyText1!.copyWith(
                                       color: Colors.white,

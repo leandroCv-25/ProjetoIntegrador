@@ -36,17 +36,8 @@ class BottomBar extends StatelessWidget {
           throw 'Could not launch $url';
         }
       },
-      text2: 'Facebook',
+      text2: 'Linkedin',
       function2: () async {
-        const url = 'https://www.facebook.com/HY-101655141766316/';
-        if (await canLaunch(url)) {
-          await launch(url);
-        } else {
-          throw 'Could not launch $url';
-        }
-      },
-      text3: 'Linkedin',
-      function3: () async {
         const url = 'https://www.linkedin.com/company/hy-do-it-your-self/';
         if (await canLaunch(url)) {
           await launch(url);
@@ -97,9 +88,9 @@ class BottomBar extends StatelessWidget {
               children: [
                 CircleAvatar(
                   radius: MediaQuery.of(context).size.width / 15,
-                  backgroundImage: const AssetImage(
-                    "assets/images/logo.png",
-                  ),
+                  // backgroundImage: const AssetImage(
+                  //   "images/logo.png",
+                  // ),
                   backgroundColor: Colors.transparent,
                   child: Container(),
                 ),
@@ -116,7 +107,7 @@ class BottomBar extends StatelessWidget {
           ),
           const SizedBox(height: 20),
           Text(
-            'Copyright © 2020 | Hy',
+            'Copyright © 2021',
             style: Theme.of(context).textTheme.bodyText1,
             textAlign: TextAlign.center,
           ),

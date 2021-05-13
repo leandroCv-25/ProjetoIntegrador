@@ -28,6 +28,14 @@ class ResponsiveWidget extends StatelessWidget {
     return MediaQuery.of(context).size.width < 992;
   }
 
+  static double heightScreen(BuildContext context) {
+    return MediaQuery.of(context).size.height;
+  }
+
+  static double widthScreen(BuildContext context) {
+    return MediaQuery.of(context).size.width;
+  }
+
   @override
   Widget build(BuildContext context) {
     return LayoutBuilder(

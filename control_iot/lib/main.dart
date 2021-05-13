@@ -59,20 +59,19 @@ class MyApp extends StatelessWidget {
                 fontSize: 18,
                 fontWeight: FontWeight.normal,
                 fontFamily: "Montserrat"),
-            headline6: TextStyle(
-                color: Colors.grey,
-                fontSize: 30,
-                fontWeight: FontWeight.normal,
-                fontFamily: "Montserrat"),
-            headline5: TextStyle(
-                color: Colors.grey,
-                fontSize: 40,
-                fontWeight: FontWeight.bold,
-                fontFamily: "Montserrat"),
             headline3: Theme.of(context)
                 .textTheme
                 .headline3!
-                .copyWith(color: Colors.grey, fontFamily: "Montserrat"),
+                .copyWith(color: Colors.white, fontFamily: "Montserrat"),
+            headline5: TextStyle(
+                color: Colors.black,
+                fontSize: 40,
+                fontWeight: FontWeight.bold,
+                fontFamily: "Montserrat"),
+            headline6: Theme.of(context)
+                .textTheme
+                .headline6!
+                .copyWith(color: Colors.white, fontFamily: "Montserrat"),
             caption: TextStyle(
                 color: Colors.grey,
                 fontSize: 12,
