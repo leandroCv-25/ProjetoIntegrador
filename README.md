@@ -4,11 +4,10 @@
 
 O objetivo deste sistema é auxiliar o ensino de controle através de uma plataforma de estudo e simulação.
 
-![alt text](./imagens/Pêndulo.PNG)
-
-
 Integrando um pêndulo invertido em que o estudante possa alterar o controlador da forma que desejar.
 E acessar as informações e a câmera remotamente.
+
+![alt text](./imagens/Pêndulo.PNG)
 
                                                             Link do trabalho
 
