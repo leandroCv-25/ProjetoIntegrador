@@ -50,10 +50,10 @@ SOUZA, W. et al. Robust switched control design for nonlinear systems using fuzz
 
 TELECO.Relatório do Projeto IoT Brasil. 2016. 
 Disponível em: <http://www.telebrasil.org.br/component/docman/doc_download/1569-apresentacao-do-projeto-lot-brasil?Itemid=>. Acesso em: 21 de jan. de2020.  Citado na página 24.
-<<<<<<< HEAD
-																Cronograma
 
-![plot](./imagens/Cronograma.png)
+							Cronograma
+
+![alt text](./imagens/Cronograma.png)
 
 1. Realizar revisão bibliográfica;
 2. Identificar requisitos;
@@ -68,7 +68,3 @@ Disponível em: <http://www.telebrasil.org.br/component/docman/doc_download/1569
 11. Desenvolvimento do aplicativo web;
 12. Teste com aplicativo web;
 13. Ensaios e Testes com a planta.
-=======
-
-
->>>>>>> b77ed5fa7bca5b473003fe559911db49c06bb17f
