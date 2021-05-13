@@ -20,4 +20,33 @@ https://www.youtube.com/watch?v=E84x9rKRSSo&feature=youtu.be
 https://ctms.engin.umich.edu/CTMS/index.php?example=InvertedPendulum&section=SystemModeling
 
                                                               Referências
-OGATA, Katsuhiko. Engenharia de controle moderno. 5. ed. São Paulo: Pearson Education do Brasil, 2010. x, 809 p. ISBN 9788576058106.
+
+ASSUNÇÃO, E.Projeto de Controladores Robustos H2 ou H via LMI:ControleRobusto. 2018. Material de aula 4. 
+
+ASSUNÇÃO, E.Projeto de Controladores Robustos H2 ou H viaLMI:Estabilidade. 2018. Material de aula 3.  
+
+CARDIM, R.Analise e Projeto de sistemas de controle fuzzy Takashi-Sugenovia LMI:Introdução aos Modelos Fuzzy Takashi-Sugeno. 2020. Material de aula1.  
+
+CARDIM, R.Controle Fuzzy TS de um Pêndulo Invertido. 2020. Material de aula.
+
+FILHO, M. F.Internet das coisas : livro digital. Palhoça: UnisulVirtual, 2016. 56 p.
+
+IEEE Standard for an Architectural Framework for the Internet of Things (IoT).IEEEStd 2413-2019, p. 1–269, March 2020. 
+
+																Cronograma
+
+![plot](./imagens/Cronograma.png)
+
+1. Realizar revisão bibliográfica;
+2. Identificar requisitos;
+3. Modelar sistema;
+4. Definição da planta;
+5. Construção da planta;
+6. Modelagem da planta;
+7. Teste da planta;
+8. Backend;
+9. Desenvolvimento do aplicativo móvel;
+10. Testes com aplicativo móvel;
+11. Desenvolvimento do aplicativo web;
+12. Teste com aplicativo web;
+13. Ensaios e Testes com a planta.
