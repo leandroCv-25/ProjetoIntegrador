@@ -15,7 +15,7 @@ https://www.overleaf.com/read/gqqcctcxdmsk
 
                                                             Mapa mental
 							    
-![alt text](./imagens/mapaMental.PNG)							    
+![alt text](./imagens/mapaMental.png)							    
 
                                                             Links interessantes
 http://www.lac.usp.br/pendulo.html
