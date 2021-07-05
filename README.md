@@ -13,6 +13,10 @@ E acessar as informações e a câmera remotamente.
 
 https://www.overleaf.com/read/gqqcctcxdmsk
 
+                                                            Mapa mental
+							    
+![alt text](./imagens/mapaMental.PNG)							    
+
                                                             Links interessantes
 http://www.lac.usp.br/pendulo.html
 
